@@ -1,0 +1,6 @@
+Query 2 : How many transfers have been sent in the currency CFA?
+
+
+
+select count(transfer_id) from transfers
+where send_amount_currency = 'CFA';
