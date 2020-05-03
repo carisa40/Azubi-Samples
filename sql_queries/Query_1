@@ -1,4 +1,0 @@
-Query 1 : How many users does Wave have?
-
-
-select count (*) from users;
