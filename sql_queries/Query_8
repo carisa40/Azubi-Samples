@@ -1,0 +1,6 @@
+Build a “send volume by country and kind” table: find the total volume of transfers (by
+send_amount_scalar) sent in the past week, grouped by country and transfer kind
+
+
+
+

@@ -1,0 +1,6 @@
+How many agent_transactions did we have in the months of 2018 (broken down by
+month)?
+
+
+
+select when_created, count(atx_id) from agent_transactions group by month(when_created);
