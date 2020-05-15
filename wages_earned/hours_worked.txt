@@ -1,0 +1,33 @@
+
+Start Time,  End Time,  Wages Earned 
+
+New session, You clocked in at : 
+2020-05-15 15:24:36
+
+You clocked out at : 
+2020-05-15 15:24:36
+
+You have earned : $24.80 this period.
+*************************************************************** 
+
+Start Time,  End Time,  Wages Earned 
+
+New session, You clocked in at : 
+2020-05-15 15:24:50
+
+You clocked out at : 
+2020-05-15 15:24:50
+
+You have earned : $43.80 this period.
+*************************************************************** 
+
+Start Time,  End Time,  Wages Earned 
+
+New session, You clocked in at : 
+2020-05-15 15:25:05
+
+You clocked out at : 
+2020-05-15 15:25:05
+
+You have earned : $41.00 this period.
+*************************************************************** 
