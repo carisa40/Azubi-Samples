@@ -1,6 +1,7 @@
-import datetime
-now = datetime.datetime.now()
-
+from datetime import datetime
+import time
+now = datetime.now()
+t = time.localtime()
 """
 f= open("hours_worked.csv","a")
 
@@ -16,9 +17,13 @@ text1 = "New session, You clocked in at : \n"
 time1 = now.strftime("%Y-%m-%d %H:%M:%S")
 print (text1, time1 )
 
+
 end_time = input ("Hi Nana, enter current time to clockout using 24hr HH.MM format : \n")
 text2 = "You clocked out at : \n"
-time2 = now.strftime("%Y-%m-%d %H:%M:%S")
+#time2 = now.strftime("%Y-%m-%d %H:%M:%S")
+#print (text2, time2)
+time2 = time.strftime("%Y-%m-%d %H:%M:%S")
+print(time2)
 
 total_time = float(end_time) - float(start_time)
 wages = (float(end_time) - float(start_time)) * 5
