@@ -16,7 +16,7 @@ f.close()
 
 start_time = input("Hi Nana, type \'start\' to clock-in \n")
 text1 = "New session, You clocked in at : \n"
-time1 = now.strficoytime("%Y-%m-%d %H:%M:%S")
+time1 = now.strftime("%Y-%m-%d %H:%M:%S")
 print (text1, time1 )
 #time3 = int(datetime.timedelta(now))
 time3 = now.strftime('%H.%M')
