@@ -1,1 +1,1 @@
-Queries for SQL Database Asignments
+Assignments competed for azubi program
